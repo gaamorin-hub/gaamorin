@@ -1,6 +1,4 @@
-## Hi there 👋
-
-# Olá, eu sou o Gabriel Amorin! 👋
+# Olá, eu sou o Gabriel Amorin! 
 
 Estou em transição para o desenvolvimento de software com foco total no ecossistema **JavaScript** e **TypeScript**. Sou apaixonado por criar soluções web modernas, escaláveis e centradas na experiência do usuário.
 
