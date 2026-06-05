@@ -11,14 +11,10 @@ Estou em transição para o desenvolvimento de software com foco total no ecossi
 ### 🚀 O que estou buscando
 Atualmente, estou focado em construir uma base sólida para atuar como **Desenvolvedor Frontend Júnior** ou **Fullstack**. Estou aberto a oportunidades de estágio e projetos colaborativos.
 
-### 📈 Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=gaamorin&show_icons=true&theme=radical )
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=gaamorin&layout=compact&theme=radical )
-
 ### 📫 Vamos nos conectar?
 - **LinkedIn:** [https://www.linkedin.com/in/gabriel-h-s-amorin-aa7265414/?skipRedirect=true]
 - **E-mail:** [hsamorin97@gmail.com]
-- **Localização:**Araçatuba, São Paulo, SP
+- **Localização:** Araçatuba, São Paulo, SP
 
 <!--
 **gaamorin/gaamorin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
