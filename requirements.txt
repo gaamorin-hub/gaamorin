@@ -1,0 +1,17 @@
+# ─────────────────────────────────────────────────────────────────────────────
+# requirements.txt — Dependências do Sistema de Backup Automatizado
+# Instale com: pip install -r requirements.txt
+# ─────────────────────────────────────────────────────────────────────────────
+
+# Variáveis de ambiente
+python-dotenv>=1.0.0
+
+# Google Drive
+google-api-python-client>=2.100.0
+google-auth-oauthlib>=1.1.0
+google-auth-httplib2>=0.1.1
+
+# AWS S3
+boto3>=1.34.0
+
+# (stdlib apenas: zipfile, smtplib, logging, email — sem dependências extras)
